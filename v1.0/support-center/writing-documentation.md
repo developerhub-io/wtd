@@ -10,7 +10,7 @@ keywords:
 tags: 
 ---
 
-To write documentation on the %product%, click anywhere in the editor page to start writing.
+To write documentation on %product%, click anywhere in the editor page to start writing.
 
 {% callout type="info" title="Info" %}
 You can use [AI Writer](/support-center/ai-writer) to create better content.
@@ -42,4 +42,4 @@ When you are ready to publish the changes to your readers, click {% icon classes
 
 ## Spell Check
 
-Your browser’s spell checker is doing its job right away.
+Your browser’s spell checker is doing its job simultaneously.
