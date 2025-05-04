@@ -12,7 +12,7 @@ tags:
 
 Draft mode empowers your editors with enhanced capabilities, offering the flexibility to write without restrictions and the ability to publish content at the optimal moment. It is a staging environment for pages, enabling ongoing work and review until they are fully prepared for publication.
 
-Writing documentation with a pen is a thing of the past. Our editors seek the ability to make adjustments seamlessly without fearing making errors.
+Writing documentation with a pen is a thing of the past. Our editors seek the ability to make adjustments seamlessly without the fear of making errors.
 
 ### How is it different than changing the publish setting?
 
@@ -28,12 +28,12 @@ Each page could have three states:
 
 ## Listed, published
 
-Once you publish the unlisted draft page, it becomes listed. Listed means that it is visible to your readers. Also, the changes that were in draft mode have now been applied and published.
+Once you publish the unlisted draft page, it becomes listed. Listed means that it is visible to your readers. Also, the changes in draft mode have now been applied and published.
 
 {% image url="https://uploads.developerhub.io/prod/8gDX/8zg493muuqnvpvad9wxaqj4xwpo3wl3ihnbz77zu451yv059y8o15kub0elravk6.png" caption="Published page" mode="responsive" height="1834" width="2740" %}
 {% /image %}
 
-The **Publish** {% icon classes="fas fa-forward" /%} button will indicate that the page is published.
+The **Published** {% icon classes="fas fa-forward" /%} button will indicate that the page is published.
 
 ## Listed, in draft mode
 
