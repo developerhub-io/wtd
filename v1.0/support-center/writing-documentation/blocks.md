@@ -23,20 +23,20 @@ The list of blocks that appear looks like this on the screen:
 
 User can add the following block types:
 
-{% table %}
+{% table widths="148" %}
 | Block type | Description | 
 | ---- | ---- | 
-| [Code block](write-the-docs/v1.0/support-center/code-blocks) | To insert a code you need to use in the document | 
-| [Callouts](write-the-docs/v1.0/support-center/callouts) | Use to insert messages like notes, errors, etc. | 
-| [Images](write-the-docs/v1.0/support-center/images) | Inserts images in the document | 
-| [Video](write-the-docs/v1.0/support-center/videos) | Inserts videos in the document | 
-| [Tables](write-the-docs/v1.0/support-center/tables) | Creates a table | 
-| [Synced Blocks](write-the-docs/v1.0/support-center/synced-blocks) | Allows you to create a new synced block or select existing one | 
-| [Custom HTML](write-the-docs/v1.0/support-center/custom-html) | Adds a custom HTML block | 
-| [Tabs](write-the-docs/v1.0/support-center/tabs) | Adds tabs to the document | 
-| [GitHub Code](write-the-docs/v1.0/support-center/github-code) | Allows you to add a GitHub Code | 
-| [Index List](write-the-docs/v1.0/support-center/index-list) | Adds an Index list | 
-| [Separators](write-the-docs/v1.0/support-center/separators) | Separates the document into the different part | 
+| [auto$](/support-center/code-blocks) | To insert a code you need to use in the document | 
+| [auto$](/support-center/callouts) | Use to insert messages like notes, errors, etc. | 
+| [auto$](/support-center/images) | Inserts images in the document | 
+| [auto$](/support-center/videos) | Inserts videos in the document | 
+| [auto$](/support-center/tables) | Creates a table | 
+| [auto$](/support-center/synced-blocks) | Allows you to create a new synced block or select existing one | 
+| [auto$](/support-center/custom-html) | Adds a custom HTML block | 
+| [auto$](/support-center/tabs) | Adds tabs to the document | 
+| [auto$](/support-center/github-code) | Allows you to add a GitHub Code | 
+| [auto$](/support-center/index-list) | Adds an Index list | 
+| [auto$](/support-center/separators) | Separates the document into the different part | 
 {% /table %}
 
 %product% supports the following inline blocks. 
