@@ -17,7 +17,7 @@ To use the %product%, do the following:
 
 ## Sign Up
 
-To sign up, go to the [Signup](https://app.developerhub.io/login#signup) page. Please, provide your e-mail address and the project name. 
+To sign up, go to the [Signup](https://app.developerhub.io/login#signup) page. Provide your e-mail address and the project name.
 
 You could also sign up using Google account.
 
@@ -29,7 +29,7 @@ You could also sign up using Google account.
 
 ## Create the project
 
-Welcome page appears after you signed up. Please, add the project name in the field.
+The Welcome page appears after you signed up. Add the project name in the field.
 
 After signing up, you will be taken to the Getting Started page. You will be asked for your first project's name.
 
