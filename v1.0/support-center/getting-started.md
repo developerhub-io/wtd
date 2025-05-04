@@ -20,7 +20,7 @@ Welcome %user.name% to our _Supercharged_ documentation, written using %product%
 
 ## What is %product%?
 
-%product% is a documentation tool to build online documentation. With %product%, you can write product and user guides, developer hubs/portals, knowledge bases, and support centers. %product% is the only tool on the market with an advanced editor and native support for OpenAPI specs.
+%product% is a documentation tool to build online documentation. With %product%, you can write product and user guides, developer hubs/portals, knowledge bases, and support center articles. %product% is the only tool on the market with an advanced editor and native support for OpenAPI specs.
 
 When using %product%, all you have to do is to write your content. No coding, no designing, no managing infrastructure, or hiring a software team.
 
