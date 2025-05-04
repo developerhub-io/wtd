@@ -53,7 +53,7 @@ Inline blocks go on the same line as text.
 - [auto$](/support-center/keyboard-keys)
 
 {% callout type="warning" title="Block menu not showing?" %}
-The text you are editing may have text formatting (such as **bold**, _italic_, or ```inline code` ```). Remove any text formatting on the cursor position before trying to add blocks.
+The text you are editing may have text formatting (such as **bold**, _italic_, or ```inline code` ``). Remove any text formatting on the cursor position before trying to add blocks.
 
 Formatting continues from the previous line. To begin a new line with no formatting, place your cursor at the end of the formatted text, then press Backspace  and  ↵  again.
 {% /callout %}
