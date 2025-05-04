@@ -63,24 +63,24 @@ For example, our own docs are not versioned and we only have a `v1.0`. However, 
 
 ### Example Setup
 
-An unversioned project could have such a setup:
+An unversioned project could have a setup similar to the following:
 
-- Project: Pied Piper
-    - Version: pied-piper
-        - Documentation: Getting Started
-        - Documentation: Android SDK
-        - Documentation: iOS SDK
-        - Documentation: Knowledge Base
+- **Project:** Pied Piper
+    - **Version:** pied-piper
+        - **Documentation section:** Getting Started
+        - **Documentation section:** Android SDK
+        - **Documentation section:** iOS SDK
+        - **Documentation section:** Knowledge Base
 
 Remember that you can hide the version selector using [Custom CSS](/support-center/custom-css), see [Hide Version Selector/Picker](/support-center/css-customisations#hide-version-selectorpicker).
 
-## What is the use of versions?
+## How Are Versions Used?
 
-Versions act as containers for documentation and API references that can be cloned.
+Versions act as containers for documentation sections and API references that can be cloned.
 
 ## Best Practices
 
 To use %product% to its fullest, we recommend the following:
 
 - It's important to use versioning correctly, as the landing page shows the contents of the default/latest version.
-- If a documentation contains too many pages, you might want to separate them into different documentations.
+- If a documentation contains too many pages, you might want to separate them into different documentation sections.
