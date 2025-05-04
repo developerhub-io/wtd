@@ -10,13 +10,10 @@ keywords:
 tags: 
 ---
 
-
 With Magic Links, your private project can only be accessed by those whom you invite.
 
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/2l4tz9i0almjzqronw7un23t3bhu4r3kdrzktgcmlzsiu4h23keik2t029ed9dmq.png" caption="" mode="responsive" height="603" width="949" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/2l4tz9i0almjzqronw7un23t3bhu4r3kdrzktgcmlzsiu4h23keik2t029ed9dmq.png" mode="responsive" height="603" width="949" %}
 {% /image %}
-
 
 ## How do Magic Links work?
 
@@ -43,7 +40,7 @@ To invite readers:
 4. Input the reader's e-mail address and expiry, if any.
 5. Click Grant Access.
 
-Once you click Grant Access, an e-mail message with be sent out to the e-mail address containing the magic link for access.
+Once you click on Grant Access, an email message will be sent to the specified email address, containing a magic link that will grant you access.
 
 ## How to Revoke Reader Access?
 
@@ -57,7 +54,7 @@ The reader will no longer be able to access the docs, or to request a magic link
 
 ## Email Invite Customisation
 
-If you would like to change the message that shows in red when a reader's email address is not registered, then please [contact us](/support-center/contact-us) with the exact message you would like to show. An example message would be:
+To change the red message that appears when a reader's email is not registered, please [contact us](/support-center/contact-us) with the exact message you want to display. For example:
 
 "This e-mail address does not have an invitation. If you would like to get access, please email [elon@tesla.com](mailto:elon@tesla.com)"
 
@@ -73,5 +70,4 @@ You can also invite reader programmatically using our API. See:
 
 ## Troubleshooting
 
-If you are getting `Magic Link has already been used` everytime, it might be that an e-mail security software is installed on our mail domain. Such security software might access links to check it before you receive the e-mail, which causes the link to become void. Please [contact us](/support-center/contact-us) to resolve this mentioning "two step magic links".
-
+If you see `Magic Link has already been used` every time, it could be due to email security software on your mail domain. This software may access links to check them before you get the email, which can make the link invalid. Please [contact us](/support-center/contact-us) to resolve this mentioning "two step magic links".
