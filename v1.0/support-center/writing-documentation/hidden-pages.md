@@ -21,7 +21,7 @@ When a reader accesses a URL of a hidden page, the page will show in the index a
 There are a few reasons why you might want to hide a page:
 
 - Get external feedback before publishing the page.
-- Exclude specific content. Contents may not be suitable for everyone and could be an advanced topic intended for a select audience.
+- Exclude specific content. Contents may not be suitable for everyone or could be an advanced topic intended for a select audience.
 
 {% callout type="warning" title="Warning" %}
 Do not share sensitive or confidential information in a hidden page. Use [auto$](/support-center/custom-login) for securing documentation.
