@@ -26,7 +26,7 @@ When using %product%, all you have to do is to write your content. No coding, no
 
 ## Why should I use %product%?
 
-%product% provides you with the simplest way to write your documentation. But don't take our word for it, try it out. Everything you need to do on %product% is literally a click away from you. %product% decreases the time needed by your team to have a functional documentation up and running, allowing them to focus on the most important part: _Writing the perfect documentation._ 
+%product% provides you with the simplest way to write your documentation. But don't take our word for it, try it out. Everything you need to do on %product% is literally a click away from you. %product% decreases the time your team needs to have a functional documentation up and running, allowing them to focus on the most important part: _Writing the perfect documentation._ 
 
 - Access beautiful clear documentation which decreases your product's churn rate and helps your prospective customers understand your product. Our expert design makes sure that your documentation is easy to navigate 
 - Utilize integrations to reach customers and track usage, allowing you provide higher customer happiness on your documentation pages
