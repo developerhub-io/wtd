@@ -1,19 +1,19 @@
 ---
 type: page
-title: How to write documentation
+title: How to Write Documentation
 listed: true
 slug: writing-documentation
 description: 
-index_title: How to write documentation
+index_title: How to Write Documentation
 hidden: 
 keywords: 
 tags: 
 ---
 
-To write documentation on the %product% click anywhere in the editor page to start writing.
+To write documentation on the %product%, click anywhere in the editor page to start writing.
 
 {% callout type="info" title="Info" %}
-You can use [AI Writer](/support-center/ai-writer) to create the better content
+You can use [AI Writer](/support-center/ai-writer) to create better content.
 {% /callout %}
 
 ## Page Sections
@@ -36,7 +36,7 @@ The content of the page can consist of text, [tables](/support-center/tables), [
 
 ## Saving
 
-To save a page, click {% icon classes="fas fa-cloud-upload-alt" /%} **Save Draft** in the bottom right. Your edits will be saved in [draft mode](/support-center/draft-mode) until you publish them. Every edit you make is saved in the [page history](/support-center/page-history).
+To save a page, click {% icon classes="fas fa-cloud-upload-alt" /%} **Save Draft** on the bottom right. Your edits will be saved in [draft mode](/support-center/draft-mode) until you publish them. Every edit you make is saved in the [page history](/support-center/page-history).
 
 When you are ready to publish the changes to your readers, click {% icon classes="fas fa-forward" /%} **Publish**.
 
