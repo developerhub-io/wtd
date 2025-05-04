@@ -18,7 +18,7 @@ Markdown is a [lightweight markup language](https://en.wikipedia.org/wiki/Lightw
 
 If you are a technical person, then you'd probably love to be able to write your documentation in Markdown.
 
-%product% supports Markdown seamlessly. Write in Markdown and we will transform it right away.
+%product% seamlessly supports Markdown. Write in Markdown and we will transform it right away.
 
 {% image url="https://uploads.developerhub.io/prod/8gDX/fsrnxazmnr81jrxnz5h1bcfp2tvai9366o7mpb3j6gb02lqabrdils55bw1su77z.gif" caption="Instant markdown formatting" mode="300" height="228" width="300" %}
 {% /image %}
