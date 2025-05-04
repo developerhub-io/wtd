@@ -28,9 +28,6 @@ Using %product% all you have to do is to write your content. No coding, no desig
 
 %product% provides you with the simplest way ever to have your documentation written. But don't take our word for it, try it out. Everything you need to do on %product% is literally a click away from you. %product% decreases the time needed by your team to have a functional documentation up and running, allowing them to focus on the most important part: _Writing the perfect documentation_.
 
-{% image url="https://uploads.developerhub.io/prod/8gDX/6no1tmwu2msxcabtpzv27sbfnctg8pazcv6hpqv0r4ct1rd6gp46blluqyr95hsm.png" mode="responsive" height="446" width="452" %}
-{% /image %}
-
 - Beautiful clear documentation decreases your product's churn rate and helps your prospective customers understand your product. Our expert design makes sure that your documentation is so easy to navigate through 📈
 - Our integrations help you reach out to customers and to track usage, allowing you provide higher customer happiness even on your documentation pages.
 - Styling your content cannot be any easier. Whether your writers are tech people or not, they can format the content using a [toolbar](/support-center/formatting-text), [keyboard shortcuts](/support-center/keyboard-shortcuts), or using [Markdown](/support-center/using-markdown) syntax on the fly 👩‍💻
