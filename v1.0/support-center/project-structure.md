@@ -21,12 +21,12 @@ Projects are at the top of the documentation hierarchy. Each project contains th
 
 Each version acts as a container for:
 
-- One or many documentation.
-- One or many references.
+- One or more pieces of documentation.
+- One or more references.
 
 Each documentation contains:
 
-- An index of one or many pages, categories and external links.
+- An index of pages, categories and external links.
 
 Different projects, even if owned by the same team, are not inter-linked and their data is siloed. You may link between projects using external links. Each project can have its own customizations, branding, look, feel and team.
 
