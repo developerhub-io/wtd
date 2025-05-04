@@ -25,13 +25,13 @@ With column search, searching in one project will also search in multiple projec
 
 ## Global Analytics
 
-We can identify searches from a different project than the one you're viewing. When your organization uses [global search](/support-center/enterprise-search#global-search), the [search analytics](/support-center/search-analytics) will display information like this:
+We can see searches from other projects while you're viewing a project. When your organization uses [global search](/support-center/enterprise-search#global-search), the [search analytics](/support-center/search-analytics) will show information like this:
 
-- Data for all searches done through the global project on all other projects.
-- For other projects: Data for searches made on that project specifically, excluding any data for searches made through the global project even if it was for that project.
+- Data for all searches conducted through the global project for all other projects.
+- For other projects: Data for searches made only on that specific project, excluding any data from searches made through the global project, even if it was related to that project.
 
-This will keep your search analytics data accurate and usable.
+This will ensure your search analytics data is accurate and useful.
 
 ## Setting up Enterprise Search
 
-Please reach out to your account manager to initiate the setup process for enterprise search.
+Please contact your account manager to start the setup process for enterprise search.
