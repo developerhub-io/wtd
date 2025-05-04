@@ -37,9 +37,6 @@ To modify the landing page HTML:
 
 - Click **Edit HTML**.
 
-{% image url="https://uploads.developerhub.io/prod/8gDX/5s63qy4afvfvr2zhhr63t1jk2m754wpg5pqt14vxlxrodgmkx36god03w53er9ug.png" caption="Use the Custom Landing Page to modify the HTML for the Main Landing Page." mode="responsive" height="794" width="1198" %}
-{% /image %}
-
 - Paste or type in the HTML to make your custom landing page. Click Save. This will save the HTML in draft mode so that you can test it out.
 - To publish it to readers, click Save & Publish.
 - To revert the draft changes, click Revert.
