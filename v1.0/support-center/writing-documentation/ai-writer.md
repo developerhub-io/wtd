@@ -10,35 +10,28 @@ keywords:
 tags: 
 ---
 
-
-
 {% callout type="info" title="Info" %}
-The following page was written partly by AI Writer.
+The following page was partly written by AI Writer.
 {% /callout %}
-
-
 
 {% callout type="warning" title="Beta" %}
 This is a beta feature. Your [feedback](/support-center/contact-us) is appreciated.
 {% /callout %}
 
+AI Writer is a powerful tool designed to assist you with routine writing tasks and content brainstorming. Whether you are looking to refine your text, enhance readability, or generate new ideas, AI Writer can help streamline the process efficiently.
 
-AI Writer is a powerful tool designed to assist you with routine writing tasks and content brainstorming. Whether you’re looking to refine your text, enhance readability, or generate new ideas, AI Writer can help streamline the process efficiently.
-
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/kezvu98btv8eidkbmnvx8lcaucc5t1jewy6n9i95vljhry1cdqrldhqn2dcaex1q.gif" caption="" mode="responsive" height="348" width="846" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/kezvu98btv8eidkbmnvx8lcaucc5t1jewy6n9i95vljhry1cdqrldhqn2dcaex1q.gif" mode="responsive" height="348" width="846" %}
 {% /image %}
-
 
 ## AI Writer features
 
 With AI Writer, you can:
 
 - **Simplify text** – Make complex sentences easier to read and understand.
-- **Enhance** – Improve overall writing quality, making text more engaging and polished.
+- **Enhance text** – Improve overall writing quality, making text more engaging and polished.
 - **Fix spelling & grammar** – Automatically correct errors to improve clarity and professionalism.
 - **Make text shorter** – Condense lengthy content while retaining key information.
-- **Expand** – Expand on ideas and provide more detailed explanations.
+- **Expand ideas** – Expand on ideas and provide more detailed explanations.
 - **Insert emojis** – Add relevant emojis to make your text more engaging and expressive.
 - **Autocomplete text** – Generate suggested completions to speed up writing.
 
@@ -66,4 +59,3 @@ If the generated response does not meet your expectations, you can quickly rever
 ## What data is sent to OpenAI?
 
 Only selected text is sent to OpenAI when AI Writer is used.
-
