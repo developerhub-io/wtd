@@ -10,13 +10,10 @@ keywords:
 tags: 
 ---
 
+Supercharged plans grant users the ability to view and revert to previous versions of each page, enhancing flexibility and control over content management.
 
-Supercharged plans can view and go back to older versions of each page.
-
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/3nts83khtsbpql3shuyqvlp994x117zi8vlef8utd0fg50tlf89s5erzniyaelfv.png" caption="" mode="responsive" height="985" width="1751" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/3nts83khtsbpql3shuyqvlp994x117zi8vlef8utd0fg50tlf89s5erzniyaelfv.png" mode="responsive" height="985" width="1751" %}
 {% /image %}
-
 
 ## View and Revert Edit History
 
@@ -28,21 +25,17 @@ To view edit history of a page:
 - On clicking on an edit history, the page will preview the change that was made.
 - You may at this stage revert to this change. This will create a new edit history.
 
-
 {% callout type="info" title="Info" %}
 Users upgrading to a higher tier plan will be able to access history older than what their previous plan allowed immediately.
 {% /callout %}
-
-
 
 {% callout type="success" title="Behaviour when Cloning" %}
 When you clone a version, the page history of the original page will be accessible on the cloned page - even if you delete the original version.
 {% /callout %}
 
-
 ## Annotate History
 
-To make it easier for your team to figure out the changes you made in an edit history, you may annotate (similar to adding a commit message) the change. To annotate a history:
+To simplify the process for your team in understanding the modifications you’ve made in the edit history, you have the option to annotate each change (similar to adding a commit message). To annotate a history:
 
 - Select the page from the index.
 - Select Page Info {% icon classes="fas fa-file-alt inv-icon" /%} from the right sidebar.
@@ -51,21 +44,18 @@ To make it easier for your team to figure out the changes you made in an edit hi
 
 ## See Changes since Published Page
 
-If you are currently writing a draft, and you need to review the changes since page was last published:
+If you are currently working on a draft and need to review the changes made since the page was last published, follow the steps outlined below:
 
 - Select the page from the index.
 - Select Page Info {% icon classes="fas fa-file-alt inv-icon" /%} from the right sidebar.
 - Next to Edit History, click on Compare With Published.
 
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/llh210trvxo0twlkzza5cm9facf0vtb8egfs8qxcbkgzabc6x2xqb8q4tzkcvtq1.png" caption="" mode="responsive" height="164" width="339" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/llh210trvxo0twlkzza5cm9facf0vtb8egfs8qxcbkgzabc6x2xqb8q4tzkcvtq1.png" mode="responsive" height="164" width="339" %}
 {% /image %}
 
-
-All edits since last published edit will be merged and showed.
+All edits made since the last published version will be consolidated and displayed.
 
 ## Known Limitations & Bugs
 
 - Diffs might have extra spaces and dashes after an import.
-- If a [block](/support-center/blocks) is changed, then we only highlight it in orange and we do not show the previous state. The new state is only shown.
-
+- If a [block](/support-center/blocks) is changed, we highlight it in orange and show only the new state, without displaying the previous state.
