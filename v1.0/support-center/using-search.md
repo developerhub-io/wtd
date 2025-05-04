@@ -10,86 +10,75 @@ keywords:
 tags: 
 ---
 
-
 %product% provides two search experiences:
 
-- [Standard Search](/support-center/using-search#standard-search): Lightning-fast search service available for all paid plans. The search looks through each section of the documentation and links to it directly if a hit has been found. Typos are forgiven as well.
-- [auto$](/support-center/ai-search): Search powered by GPT models that provide answers to questions with sources in natural language form.
+- [Standard Search](/support-center/using-search#standard-search): Lightning-fast search service available for all paid plans. It searches all sections of the documentation and provides direct links to relevant results, even if there are typos.
+- [auto$](/support-center/ai-search): Search using GPT models that give answers in easy-to-understand language and include sources.[auto$](/support-center/ai-search)
 
-The search bar exists at the top of the pages to attract attention and give the readers the best experience possible.
+The search bar is prominently positioned at the top of the pages to capture attention and provide readers with an optimal browsing experience.
 
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/cij3np5n414jzp5j5mtoja6f5ziutcr0jjw4ndajoeentgbkw0p53gw2cgmer0lr.png" caption="" mode="responsive" height="335" width="734" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/cij3np5n414jzp5j5mtoja6f5ziutcr0jjw4ndajoeentgbkw0p53gw2cgmer0lr.png" mode="responsive" height="335" width="734" %}
 {% /image %}
-
 
 ### Look and Feel
 
-The search bar shadow and the highlighting of the results uses the same branding colour that you have assigned as in [Customising Visuals](/support-center/customising-visuals#changing-colour).
-
+The shadow of the search bar and the highlighting of the results utilize the same branding color that you have specified in [Customising Visuals](/support-center/customising-visuals#changing-colour). This ensures a cohesive and visually appealing interface that aligns with your brand identity.
 
 {% callout type="info" title="Only in live mode" %}
-Search is only available in live mode. The bar does show in editor mode, but it is just a demonstration. If you want to search for a page while in edit mode, then use the [Quick Switcher](/support-center/quick-switcher).
+Search functionality is exclusively available in live mode. While the search bar is visible in editor mode, it serves only as a demonstration and cannot perform actual searches. If you need to search for a specific page while in edit mode, please utilize the [Quick Switcher](/support-center/quick-switcher) instead.
 {% /callout %}
-
 
 ## Next UI Search
 
-[Next UI](/support-center/customising-visuals#next-ui) provides a more powerful search experience for the readers. The search pops out for a larger search area, and provides controls for the reader to select the search scope.
-
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/lowsihtv6oum6k0sczgsdqmmlvl0leevwngdfgfz9l0lpzr3xarkzsn6s53kpmpc.png" caption="" mode="responsive" height="1376" width="1954" %}
-{% /image %}
-
+[Next UI](/support-center/customising-visuals#next-ui) offers an improved search experience for readers. The search expands into a larger area and includes options for users to choose their search scope.
 
 ## Standard Search
 
-Our standard search is lightning-fast search experience which provides readers with content relating to the terms queried.
+Our standard search offers a lightning-fast experience, delivering relevant content that corresponds to the search terms entered by readers.
 
 ### Search Speed
 
-Our lightning-fast search has an average latency of less than 10 milliseconds.
+Our lightning-fast search feature boasts an impressive average latency of under 10 milliseconds, ensuring swift and efficient results for your queries.
 
 ### Search Update Frequency
 
-We update the search index every 15 minutes. That means if you add or remove content, it will take up to 15 minutes for the content to show up in search.
+We update the search index every 15 minutes. This means if you add or remove content, it may take up to 15 minutes for the changes to appear in search.
 
 ## Page Keywords
 
-You can add keywords to your page to enable your readers to find the page using those keywords. When using keywords, it is only useful when the word does not exist in the page itself. Thus, example of page keywords would be:
+You can enhance the visibility of your page by incorporating relevant keywords that will assist readers in discovering it through search queries. Keywords are most effective when they are not already present in the content of the page. Here are some examples of effective page keywords:
 
 - Synonyms of words in the page.
 - Words related to the page contents.
 - Expansion of acronyms.
 
-Page keywords can be added from the Page Info {% icon classes="fas fa-file-alt" /%} toolbar on the right side of the page.
+You can add page keywords from the Page Info {% icon classes="fas fa-file-alt" /%} toolbar on the right side of the page.
 
 ## Change Search Scope
 
-To change the search scope to only look into the active documentation or API reference, have a look at `search.scope` in our [auto$](/support-center/advanced-settings).
+To change the search scope to just the active documentation or API reference, check out `search.scope` in our [auto$](/support-center/advanced-settings).
 
 ## Searching using URL
 
-If you wish to setup a search engine from your documentation, or you want to present your readers with a ready URL that searches the content for them, then you can do so by adding a `s` search query to any URL in your docs site. For example, by using this URL form: `https://<your-project-domain>/?s=%s` you'll be able to run search on a term (replace `%s`) directly as soon as the page loads.
+To set up a search engine in your documentation or provide your readers with a search URL, add a `s` search query to any URL in your docs site. For example, using this URL format: `https://<your-project-domain>/?s=%s`, you can perform a search on a term (replace `%s`) as soon as the page loads.
 
 ## Advanced Search Operators
 
 Searching has the support for two advanced operators:
 
-- Double quotations: Enclose terms in double quotations to only match exact matches. For example: `"search engine"` would only match when the words search engine exists and in this order.
-- Minus: Prohibit records with records prefixed by a minus sign. For example: `search -engine` would only match records having search, but not engine.
+- To find exact matches, use double quotations around the terms. For example: `"search engine"` will only match when the words "search engine" appear together and in that order.
+- Minus: Prevent records that start with a minus sign. For example: `search -engine` will only match records containing search, but not engine.
 
 ## Best Practices For Searchable Content
 
-It is vital for the search to be able to pinpoint what the reader needs. Hence, it is important to arrange the content of your documentation as such:
+To ensure that the search functionality effectively identifies and delivers what the reader is looking for, it is crucial to organize the content of your documentation thoughtfully. Therefore, consider structuring your documentation in the following manner:
 
-- We split search results by using heading 2 only. Keep your heading 2 sections neither too short, nor too long. Any heading 2 content that is longer than 10 thousand characters (~2000 words, ~100 sentences) will be cut-off.
-- Use as many varying words as possible, to ensure that whichever synonyms your readers might use are included in the text.
+- We divide search results using heading 2 only. Make sure your heading 2 sections are of moderate length. If any heading 2 content exceeds 10,000 characters (about 2,000 words or 100 sentences), it will be cut off.
+- The text cannot be simplified while incorporating all the synonyms requested.
 
 ## Search using API
 
-If you wish to provide documentation search capabilities outside of DeveloperHub, you can use our [Search](/v1.0/api/ref#search) to make queries and direct your users to the relevant documentation. An example search request would look like:
-
+If you want to offer documentation search options outside of DeveloperHub, you can use our [Search](/v1.0/api/ref#search) to make queries and guide your users to the correct documentation. An example search request would be:
 
 {% code %}
 {% tab language="bash" %}
@@ -99,12 +88,10 @@ curl --request GET \
 {% /tab %}
 {% /code %}
 
-
 ## Multi-Project Search
 
 See [Enterprise Search](/support-center/enterprise-search) for more information about multi-project search.
 
 ## Javascript Hook for Search
 
-If you wish to send search analytics to third party services, you can use the `onsearch` javascript event to handle all search operations. See [On Search event](/support-center/developer-tools#on-search).
-
+If you would like to send search analytics to third-party services, you can utilize the `onsearch` JavaScript event to manage all search operations effectively. For further details, please refer to [On Search event](/support-center/developer-tools#on-search).
