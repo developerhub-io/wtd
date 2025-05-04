@@ -38,7 +38,7 @@ When using %product%, all you have to do is to write your content. No coding, no
 - [Host](/support-center/hosting) on your [custom domain](/support-center/using-custom-domain), on [your existing website](/support-center/hosting#hosting-under-an-existing-website), or on a [subdomain](/support-center/hosting#hosting-under-product-subdomain) of ours 
 - Test your APIs right away and bring your API References close to your user guides with a built-in API editor and API playground. We also have native support for [OpenAPI 2 and 3](/support-center/api-references)
 - Use our documentation editor which looks the same as the live documentation. You never have to guess the output of your document when it's published
-- Completely modify the outcome by changing [global CSS](/support-center/custom-css) and injecting [javascript](/support-center/custom-javascript). We take customization to the next level.
+- Completely modify the outcome by changing [global CSS](/support-center/custom-css) and injecting [javascript](/support-center/custom-javascript). We take customisation to the next level.
 
 ---
 
