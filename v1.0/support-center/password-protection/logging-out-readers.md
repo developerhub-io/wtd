@@ -10,11 +10,9 @@ keywords:
 tags: 
 ---
 
+To log out readers, you can invoke the `logout` function on the `window` object. This action effectively terminates the current session, ensuring that users are securely logged out of the application.
 
-To log out readers, a `logout` function can be called on the `window` object.
-
-For example, if you wish to allow the readers to log out themselves from a secure session, a logout button can be added to the top right corner next to the navigation links. Add the following [Custom JS](/support-center/custom-javascript):
-
+To let users log out from a secure session, you can add a logout button in the top right corner near the navigation links. Include this [Custom JS](/support-center/custom-javascript):
 
 {% code %}
 {% tab language="html" %}
@@ -32,5 +30,3 @@ For example, if you wish to allow the readers to log out themselves from a secur
 </script>
 {% /tab %}
 {% /code %}
-
-
