@@ -1,30 +1,30 @@
 ---
 type: page
-title: Previewing Documentation
+title: Preview Documentation
 listed: true
 slug: previewing-documentation
 description: 
-index_title: Previewing Documentation
+index_title: Preview Documentation
 hidden: 
 keywords: 
 tags: 
 ---
 
-%product% was designed to unify the view between the editor and the live version.
+%product% is designed to unify the view between the editor and the live version.
 
-There is no need to preview your documentation. The editor already is showing you the same view of how it will look to your documentation readers 😉
+You do not need to preview your documentation. The editor shows you your documentation in a rendered state so that when you edit then you can see how changes will look for your documentation users 🤯
 
 {% callout type="success" title="Woah!" %}
 What was I thinking before?!
 {% /callout %}
 
-If you are really keen on previewing it, then you can see it live by publishing it.
+If you still want to preview your documentation, then you can publish the documentation for a live view.
 
 ## URL Strategy
 
-The URL, which is the link you see in your browser, plays a crucial role in determining which project, version, and section (documentation or API reference) are currently being accessed. It specifies the exact resources the user wishes to view, allowing for a seamless navigation experience across different parts of the documentation.
+The URL, which is the link in the browser, indicates which project, version, and section (documentation or API reference) that your users are accessing. With an organized URL strategy, you provide a predictable navigation experience across different parts of the documentation for your users.
 
-Here is a summary of how we load resources using URLs:
+Here is a summary of how resources are loaded using URLs:
 
 {% table widths="388" %}
 | URL | Result | 
@@ -36,7 +36,7 @@ Here is a summary of how we load resources using URLs:
 | `https://<project>/` | Loads the landing page if enabled, or the default page in the default section of the default version | 
 {% /table %}
 
-The following URLs have been deprecated and are no longer recommended for use. However, for backward compatibility, they have been redirected:
+The following URLs are deprecated and not recommended for use; however, for backward compatibility, they are redirected:
 
 {% table %}
 | URL | Redirected To | 
@@ -54,18 +54,18 @@ You can add a base path if you are [hosting under your own existing website](/su
 
 ## Print-Optimized
 
-Our pages are print-optimized (specially for A4 paper size). We recommend having the wide documentation layout when printing, and always printing from the published documentation site (not on the editor). If you are an enterprise customer, then you may also [export an entire version as PDF](/support-center/pdf-export).
+Pages are print-optimized (specially for A4 paper size). When printing, use the wide documentation layout and always print from the published documentation site (not from the editor). If you are an enterprise customer, then you may also [export an entire version as PDF](/support-center/pdf-export).
 
 {% image url="https://uploads.developerhub.io/prod/8gDX/3lmhzjyqdyxlpxseucjwoqcesxxee9u0u2843iodjlbf7dm5shwebyl6svraln6v.jpg" mode="responsive" height="2270" width="2832" %}
 {% /image %}
 
 ## Embed Mode
 
-%product% sites can be embedded using `iframe` as needed. This is specially helpful if you wish to create a documentation widget so your reader can follow the instructions without leaving their tabs.
+%product% sites can be embedded using `iframe` as needed. This is helpful if you want to create a documentation widget so your users can follow the instructions without leaving their tabs.
 
 There are two types of embed mode:
 
-- Minimal: Hides the top navigation, footer, index and table of contents. Mode is `embed`.
+- Minimal: Hides the top navigation, footer, index, and table of contents. Mode is `embed`.
 - Normal: Hides the top navigation and footer only. Mode is `embed_full`.
 
 {% callout type="info" title="Note" %}
