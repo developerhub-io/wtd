@@ -10,46 +10,41 @@ keywords:
 tags: 
 ---
 
+Page tagging serves two primary purposes:
 
-Page tagging provides two uses:
+- Displays a list of related pages at the bottom of the page.
+- Enables readers to filter by tags in their search.
 
-- Shows a list of related pages at the bottom the page.
-- Allows readers to filter using the tags in search.
-
-Tags labels can be maximum of 64 characters of length.
+Tags labels can be up to 64 characters long.
 
 ## Related Pages
 
-Related pages are generated based on tags. Up to 5 related pages will be displayed at the bottom of each page, and those related pages will only appear on pages that are tagged.
+Related pages are dynamically generated based on the assigned tags. A maximum of 5 related pages will be showcased at the bottom of each tagged page. It’s important to note that these related pages will exclusively appear on pages that carry tags.
 
-The related pages are those that share the highest number of matching tags with the currently viewed page.
+The related pages are those that share the greatest number of matching tags with the page currently being viewed.
 
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/pdi0vt0vcgr6ig4zl95lyi8alc655z3un3z3g0vwznqcyac1yc57ghdxjxz1fyvm.png" caption="" mode="responsive" height="650" width="1704" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/pdi0vt0vcgr6ig4zl95lyi8alc655z3un3z3g0vwznqcyac1yc57ghdxjxz1fyvm.png" mode="responsive" height="650" width="1704" %}
 {% /image %}
-
 
 ## Search tag filtering
 
-Tags can also be used to filter search. Once you have at least one tag set up in the project, the filter option would show up in the reader search (only in [Next UI](/support-center/customising-visuals#next-ui)).
+Tags can help filter your search. When you have at least one tag in your project, the filter option will appear in the reader search (only in [Next UI](/support-center/customising-visuals#next-ui)).
 
-Readers can then filter by a tag or more simultaneously.
+Readers can filter by one or more tags at the same time.
 
-
-{% image url="https://uploads.developerhub.io/prod/8gDX/akea46gkfkseoag9wsg1dds27i0o1vo6wtpr7v183heg70yppcssnuzzqg5umiy5.png" caption="" mode="responsive" height="1080" width="1752" %}
+{% image url="https://uploads.developerhub.io/prod/8gDX/akea46gkfkseoag9wsg1dds27i0o1vo6wtpr7v183heg70yppcssnuzzqg5umiy5.png" mode="responsive" height="1080" width="1752" %}
 {% /image %}
-
 
 ## Creating tags
 
 To create a tag:
 
-- Visit the page on which you wish to apply the tag.
+- Go to the page where you want to apply the tag.
 - Open Page Info {% icon classes="fas fa-file-alt" /%} from the right sidebar.
-- Under tags, type the label of the new tag.
+- Type the label of the new tag under tags.
 - Hit Enter.
 
-The tag will be created and applied onto the page. If you wish to remove the tag, click on it and select Remove.
+The tag will be created and applied to the page. If you would like to remove the tag, simply click on it and select the "Remove" option.
 
 ## Listing/editing/removing tags in a project
 
@@ -60,5 +55,4 @@ To list all tags in a project:
 - All the tags would be listed there.
 - Click on a tag to rename it or delete it.
 
-The number next to the tag shows how many pages it is tagged to (in all versions).
-
+The number displayed next to the tag indicates the total count of pages it is associated with across all versions.
