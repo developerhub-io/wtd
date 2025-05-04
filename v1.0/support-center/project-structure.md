@@ -19,12 +19,12 @@ Projects are at the top of the documentation hierarchy. Each project contains th
 - A landing page, which users see when they first navigate to your documentation. 
 - One or more version numbers, which represent different versions of your documentation. 
 
-Each version acts as a container for:
+Each version contains:
 
-- One or more pieces of documentation.
+- One or more documentation sections.
 - One or more references.
 
-Each documentation contains:
+Each documentation section contains:
 
 - An index of pages, categories and external links.
 
@@ -32,32 +32,32 @@ Different projects, even if owned by the same team, are not inter-linked and the
 
 ### Example Setup
 
-A flat-hierarchy project, for simpler documentation, could have such a setup:
+A simple documentation project can have a setup similar to the following:
 
-- Project: Pied Piper
-    - Version: latest
-        - Documentation: Docs (containing any number of pages)
+- **Project:** Pied Piper
+    - **Version:** v1.0
+        - **Documentation Section:** Docs (containing any number of pages)
 
-A bigger project could have such a setup:
+A larger project could have a setup similar to the following:
 
-- Project: Pied Piper
-    - Version: v1.0
-        - Documentation: Getting Started
-        - Documentation: Android SDK
-        - Documentation: iOS SDK
-        - Documentation: Knowledge Base
+- **Project:** Pied Piper
+    - **Version:** v1.0
+        - **Documentation Section:** Getting Started
+        - **Documentation Section:** Android SDK
+        - **Documentation Section:** iOS SDK
+        - **Documentation Section:** Knowledge Base
 
-    - Version: v2.0 (Latest)
-        - Documentation: Getting Started
-        - Documentation: Android SDK
-        - Documentation: iOS SDK
-        - Documentation: Knowledge Base
+    - **Version:** v2.0 (Latest)
+        - **Documentation Section:** Getting Started
+        - **Documentation Section:** Android SDK
+        - **Documentation Section:** iOS SDK
+        - **Documentation Section:** Knowledge Base
 
-## What if I don't need versions?
+## What If I Don't Need Versions?
 
-If your docs are not versioned, then you can simply use a generic name for the default version, such as the name of your project. Under that version, you can have all the documentation and API references you need, such as User Guide, Knowledge Base, FAQ, Android SDK, iOS SDK and so on.
+If your docs are not versioned you can use a generic name for the default version, such as the name of your project. Under that version, you can have all the documentation sections and API references you need. For example, User Guide, Knowledge Base, FAQ, Android SDK, iOS SDK, etc.
 
-If you only have one version, which is the default version, then the version name would not even show in the URL according to our [URL Strategy](/support-center/previewing-documentation#url-strategy).
+If you only have one version, which is the default version, then the version name will not appear in the URL according to our [URL Strategy](/support-center/previewing-documentation#url-strategy).
 
 For example, our own docs are not versioned and we only have a `v1.0`. However, if you are on this page, then you'll notice that the link is actually `support-center/structuring-documentation` with no mention of `v1.0`.
 
