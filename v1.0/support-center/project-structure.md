@@ -17,7 +17,7 @@ tags:
 Projects are at the top of the documentation hierarchy. Each project contains the following:
 
 - A landing page which users see when they first navigate to your documentation. 
-- One or many version numbers for your documentation. 
+- One or more version numbers for your documentation project. 
 
 Each version acts as a container for:
 
