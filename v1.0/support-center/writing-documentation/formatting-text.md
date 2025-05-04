@@ -25,7 +25,7 @@ To format text in your documentation, highlight the text you want to format. A t
 
 With the toolbar, you can:
 
-- Make text bold
+- Bold text
 - Italicize text
 - Add an external link
 - Create a heading (Level 2)
@@ -42,7 +42,7 @@ And you can use the [auto$](/support-center/ai-writer).
 
 ### HTML in Text
 
-If you need to write text with HTML tags, you can do this by inserting it as line code, like this:
+If you need to write text with HTML tags, you can do this by inserting text as line code:
 
 `<body><p>Hey</p></body>`.
 
@@ -56,4 +56,4 @@ Furthermore, you can right-click on the number of the first item in an ordered l
 
 ## More info?
 
-If you want more formatting options, contact us!
+If you want more formatting options, [contact us! ](/support-center/contact-us)
