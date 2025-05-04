@@ -85,7 +85,7 @@ document.cookie = "vars=" + btoa(JSON.stringify(vars)) + "; expires=Thu, 18 Dec 
 
 ## Standard for User Details
 
-To personalize docs, we suggest using this standard for any current or future features. Please follow this JSON structure:
+To customize your documents, use this standard for all current and future features. Please follow this JSON format:
 
 {% code %}
 {% tab language="javascript" %}
