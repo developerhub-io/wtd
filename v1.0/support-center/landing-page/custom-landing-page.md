@@ -17,8 +17,6 @@ tags:
 </div>
 {% /html %}
 
-Test.
-
 For enhanced control and branding of your landing page, you can use HTML, CSS, and JavaScript to create a bespoke landing page tailored to your unique needs.
 
 {% image url="https://uploads.developerhub.io/prod/8gDX/62s0vzv9suxgpc3ioxlaugzdy8qujbs1yotd2hxq39fg0gpmgp1ilnoa7mkri116.jpg" caption="Our Custom Landing Page" mode="responsive" height="1189" width="1501" %}
