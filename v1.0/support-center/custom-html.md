@@ -12,7 +12,7 @@ tags:
 
 The Custom HTML block enables you to seamlessly incorporate any web content directly into your documentation pages. This flexibility allows you to enhance your documentation with diverse elements, making it more engaging and informative for your audience.
 
-To create a Custom HTML block:
+To create a Custom HTML block:-
 
 {% synced id="open-block-menu" %}
 {% /synced %}
