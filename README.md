@@ -24,6 +24,9 @@ You’ll get access to our platform (via UI and GitHub sync) and can try out our
 🎉 Everyone who contributes improvements will be credited as a contributor on our GitHub repository.
 Your work will be acknowledged publicly, and you’ll be helping other users of DeveloperHub with clearer, better docs.
 
+⭐ The following amazing people have collaborated on our docs:
+
+[Alexandra Omogbadegun](https://github.com/alexandrazion), [Asad Faruqi](https://linkedin.com/in/asad-ahmad-faruqi), [Jordan Johnson](https://www.linkedin.com/in/jordantechwriter), [Steven G. Spencer](https://rockylinux.org)
 
 ## Perfect for you if
 ✨ You’re curious about new tools
@@ -53,11 +56,5 @@ Your work will be acknowledged publicly, and you’ll be helping other users of 
 👉 [DeveloperHub.io Site](https://developerhub.io)
 
 👉 [DeveloperHub.io Login](https://app.developerhub.io)
-
-## Collaborators
-The following amazing people have collaborated on our docs:
-
-[Alexandra Omogbadegun](https://github.com/alexandrazion), [Asad Faruqi](https://linkedin.com/in/asad-ahmad-faruqi), [Jordan Johnson](https://www.linkedin.com/in/jordantechwriter), [Steven G. Spencer](https://rockylinux.org)
-
 
 No prior DeveloperHub experience needed—fresh perspectives welcome!
