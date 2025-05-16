@@ -54,5 +54,10 @@ Your work will be acknowledged publicly, and you’ll be helping other users of 
 
 👉 [DeveloperHub.io Login](https://app.developerhub.io)
 
+## Collaborators
+The following amazing people have collaborated on our docs:
+
+[Alexandra Omogbadegun](https://github.com/alexandrazion), [Asad Faruqi](https://linkedin.com/in/asad-ahmad-faruqi), [Jordan Johnson](https://www.linkedin.com/in/jordantechwriter), [Steven G. Spencer](https://rockylinux.org)
+
 
 No prior DeveloperHub experience needed—fresh perspectives welcome!
