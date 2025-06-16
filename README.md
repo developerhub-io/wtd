@@ -26,7 +26,7 @@ Your work will be acknowledged publicly, and you’ll be helping other users of 
 
 ⭐ The following amazing people have collaborated on our docs:
 
-[Alexandra Omogbadegun](https://github.com/alexandrazion), [Asad Faruqi](https://linkedin.com/in/asad-ahmad-faruqi), [Jordan Johnson](https://www.linkedin.com/in/jordantechwriter), [Steven G. Spencer](https://rockylinux.org)
+[Alexandra Omogbadegun](https://github.com/alexandrazion), [Asad Faruqi](https://linkedin.com/in/asad-ahmad-faruqi), [Jordan Johnson](https://www.linkedin.com/in/jordantechwriter), [Steven G. Spencer](https://rockylinux.org), [Nimitha Jalal](https://github.com/nimithajalal)
 
 ## Perfect for you if
 ✨ You’re curious about new tools
